@@ -1,0 +1,30 @@
+ {
+	"todos":[
+		{
+
+			"title": "Item 1",
+			"responsible": "Johnatan",
+			"description": "Walk",
+			"priority": "low"
+		},
+        {
+
+			"title": "Item  2",
+			"responsible": "Silviana",
+			"description": "eat",
+			"priority": "medium"
+		},
+		{
+			"title": "Item 3",
+			"responsible": "Laura",
+			"description": "Drink",
+			"priority": "high"
+		},
+		{
+			"title": "TItem  4",
+			"responsible": "Camila",
+			"description": "Dance",
+			"priority": "low"
+		}	
+	]
+}
